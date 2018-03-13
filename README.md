@@ -26,7 +26,6 @@ S
 |--NP
    |--Pro
       |--i
-
 ```
 
 Best parse tree found:
